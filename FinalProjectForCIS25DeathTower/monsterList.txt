@@ -1,0 +1,10 @@
+1 GoldSlime 100 10 1
+2 Goblin 100 10 2
+3 Cat 100 10 3
+4 Minotaur 200 15 4
+5 IceDragonSikasa 400 15 5
+6 IceQueen 300 10 6
+7 DeathDragonSpirazzi 300 15 7
+8 EvilSwordApophis 350 20 8
+9 PlagueApostle 400 20 9
+10 DragonKingBakal 600  10

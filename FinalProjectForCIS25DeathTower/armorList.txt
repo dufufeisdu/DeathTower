@@ -1,0 +1,10 @@
+1 FreezingRobe 40
+2 DarkGothicCoat 50
+3 ManaBurnRobe 60
+4 PiercingLeatherTop 70
+5 SharkskinTop 80
+6 CunningChamelonCoat 90
+7 NightShadowTop 100
+8 LightnessAutoTop 110
+9 CaptainTroopersIronArmor 120
+10 MagicalRainstorm 130
